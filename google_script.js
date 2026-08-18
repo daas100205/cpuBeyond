@@ -1,13 +1,13 @@
 /**
- * CPU Beyond - Google Apps Script Integration
- * Target Google Sheet: https://docs.google.com/spreadsheets/d/1LMYkSPb72mEWYweISyUMWt0lCS5HTHZt_g8wId28ov4
+ * CPU Beyond - Integración con Google Apps Script
+ * Hoja de destino: https://docs.google.com/spreadsheets/d/1LMYkSPb72mEWYweISyUMWt0lCS5HTHZt_g8wId28ov4
  *
- * Instructions:
- * 1. Open your Google Sheet in the browser
- * 2. Go to Extensions > Apps Script
- * 3. Replace all existing code with this script
- * 4. Click Deploy > New deployment > Web App > Access: Anyone
- * 5. Copy the generated Web App URL and paste it into cpuBeyond.exe (or save in google_script_url.txt).
+ * Instrucciones:
+ * 1. Abre tu hoja de Google Sheets en el navegador.
+ * 2. Ve al menú superior: Extensiones > Apps Script.
+ * 3. Reemplaza todo el código por este script.
+ * 4. Haz clic en Implementar > Nueva implementación > Aplicación web > Acceso: Cualquier persona.
+ * 5. Copia la URL del Web App generada y pégala en cpuBeyond.exe (o guárdala en google_script_url.txt).
  */
 
 function doPost(e) {
